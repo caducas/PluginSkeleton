@@ -1,0 +1,9 @@
+{
+  "name": "Gpio",
+  "version": "0.1.0",
+  "description": "Plugin for pi@home home automation system",
+  "author": "Nikolaus Kofler",
+  "devDependencies": {
+    "onoff": "~0.2.3",
+  }
+}
